@@ -4,11 +4,10 @@
     <div class="profile-container">
         <h1>David Yap</h1>
         <ul class="project">
-            <li>Created a bus ticketing system</li>
-            <li>Developed a flight ticketing website</li>
-            <li>Designed a voting console application</li>
-            <li>Implemented robotic process automation (RPA) tools to autonomously execute tasks on websites</li>
-            <li>Currently developing an Online Employment Website for Employers</li>
+            <li>Studying at TAR UMT</li>
+            <li>Bachelor Degree in Enterprise System</li>
+            <li>Expected Graduate in Aug 2024</li>
+            <li>Course Representative of Degree Year 2 & 3</li>
         </ul>
         <h2>Projects</h2>
         <ul class="project">
